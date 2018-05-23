@@ -10,6 +10,9 @@ import java.util.Random;
  * from the start (green square).
  * We move by pressing A, S, D, W on the keyboard.
  *
+ * @author Luka Kralj
+ * @version 15 March 2018
+ * 
  * TODO: loosing condition when can't move
  */
 public class MainMaze extends PlayerGrid {
